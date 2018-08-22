@@ -1,0 +1,6 @@
+bin/
+debug/
+Library/
+Temp/
+*.csproj
+*.sln
